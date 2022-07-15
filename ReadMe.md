@@ -7,9 +7,9 @@ All the projects do the same thing, list one hundred numbers in an unordered lis
 You can find a readme in each with links to the frameworks and instructions on how to run.
 
 ## Useful Links
-[jQuery](https://jquery.com/) (https://youmightnotneedjquery.com/)
-[Handlebars js](https://handlebarsjs.com/) 
-[Angualr](https://angular.io/)
-[ReactJs](https://reactjs.org/)
-[vue.js](https://vuejs.org/)
-[svelte](https://svelte.dev/)
+* [jQuery](https://jquery.com/) (https://youmightnotneedjquery.com/)
+* [Handlebars js](https://handlebarsjs.com/) 
+* [Angualr](https://angular.io/)
+* [ReactJs](https://reactjs.org/)
+* [vue.js](https://vuejs.org/)
+* [svelte](https://svelte.dev/)
